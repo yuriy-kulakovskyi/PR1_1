@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/PR1_1.dir/main.cpp.o CMakeFiles/PR1_1.dir/classes/FloatRange.cpp.o -o PR1_1   -L/opt/homebrew/opt/ncurses/lib
